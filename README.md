@@ -1,4 +1,4 @@
-Hi, this is He yang.
+Hi, this is He yang. [![Codeforces Rating](https://cfrating.ihcr.top/?user=kernel.bin&style=flat-square)](https://codeforces.com/profile/kernel.bin)
 or call me kernel.bin, one of my nickname
 
 I'm a college student, Chinese. I'm a Win32 Developer. (also interested in algorithms & Information Security, I have a plan to participate ACM or CTF). Now I major in chemistry
