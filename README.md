@@ -9,6 +9,7 @@ I like to play games as well. Minecraft and Arknights are the games I often play
 
 [![He yang's github stats](https://github-readme-stats.vercel.app/api?username=kernelbin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![He yang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kernelbin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kernelbin/kernelbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
