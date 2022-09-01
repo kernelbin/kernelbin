@@ -1,11 +1,15 @@
-Hi, this is He Yang. Or call me kernel.bin, one of my nickname. [![Codeforces Rating](https://cfrating.ihcr.top/?user=kernel.bin&style=flat-square)](https://codeforces.com/profile/kernel.bin)
 
-I'm a college student, Chinese. I'm a Win32 Developer. (also interested in algorithms & Information Security, I have a plan to participate ACM or CTF). Now I major in computer science.
+# Hi 👋, I'm kernel.bin
 
-I used to write some fun bot projects for OIer, and I contribute to [ReactOS](https://github.com/reactos/reactos). I'm also working on some other interesting projects.
-I like to play games as well. Minecraft, Genshin Impact and Arknights are the games I often play. 
+* 💬💡🎈ACMer / Former OIer, still learning new algorithms. [![Codeforces Rating](https://cfrating.ihcr.top/?user=kernel.bin&style=flat-square)](https://codeforces.com/profile/kernel.bin)
+* 🏫College student, now I major in computer science.
+* ⌨️Win32 programmer, I contribute to [ReactOS](https://github.com/reactos/reactos).
+* ❤️Interested in information security and CTF as well.
+* 🎮 I play Minecraft, Genshin Impact, Arknights and so on.
 
 📫 my email: 1160386205@qq.com
+
+🐧 QQ: 1160386205
 
 [![He yang's github stats](https://github-readme-stats.vercel.app/api?username=kernelbin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
